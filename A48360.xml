@@ -1,0 +1,760 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The summe of Doctor Leyburnes answere to a letter printed against him by M.r Blacloe</title>
+            <author>Leyburn, George, 1593-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48360</idno>
+            <idno type="STC">Wing L1939</idno>
+            <idno type="STC">ESTC R217656</idno>
+            <idno type="EEBO-CITATION">99829311</idno>
+            <idno type="PROQUEST">99829311</idno>
+            <idno type="VID">33748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The summe of Doctor Leyburnes answere to a letter printed against him by M.r Blacloe</title>
+                  <author>Leyburn, George, 1593-1677.</author>
+               </titleStmt>
+               <extent>42 p.   </extent>
+               <publicationStmt>
+                  <publisher>By the widdowe of marke Wyon,</publisher>
+                  <pubPlace>[Douai] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>At foot of title page: Superiorum permissu.</note>
+                  <note>Thomas Blacloe is a pseudonym for Thomas White.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>White, Thomas, 1593-1676 --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33748:1" rendition="simple:additions"/>
+            <p>THE SVMME OF DOCTOR LEYBVRNES ANSWERE TO A LETTER PRINTED AGAINST
+HIM BY M.<hi rend="sup">R</hi> BLACLOE.</p>
+            <p>By The Widdowe of MARKE WYON, 1657.</p>
+            <p>
+               <hi>SVPERIORVM PERMISSV.</hi>
+            </p>
+            <pb facs="tcp:33748:2" rendition="simple:additions"/>
+            <pb facs="tcp:33748:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:33748:3"/>
+            <pb n="3" facs="tcp:33748:3"/>
+            <head>THE SVMME OF DOCTOR LEYBVRNES ANSWERE TO A LETTER PRINTED
+AGAINST HIM BY M.<hi rend="sup">R</hi> BLACLOE.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">M</seg>OST HONORED SIR.</salute>
+            </opener>
+            <p>Some few daies agoe, hau<g ref="char:EOLhyphen"/>ing receiued a copie of a verie bitter,
+and (in my iudgment) moſt ſcan<g ref="char:EOLhyphen"/>dalous Letter, published in Print by M.<hi rend="sup">r</hi>
+Blacloe, againſt D.<hi rend="sup">r</hi> Leyburne, I was im<g ref="char:EOLhyphen"/>patient, vntill I had fish't from
+him, what he could anſwere to the vncharitable, and iniurious contents of the
+ſaid Letter, that accordingly I might acquaint you, in regard of your eminent
+place amongſt <pb n="4" facs="tcp:33748:4"/>our Brethren. Wherefore, be pleas'd to knowe
+the ſumme of what I heard from his owne mouth.</p>
+            <p n="1">1.<hi rend="sup">o</hi> Doctor Leyburne doth owne the Letter, from which M.<hi rend="sup">r</hi>
+Blacloes quarrell taketh its riſe, but ingeniouſly profeſſeth, that in
+communicating the ſcandalous re<g ref="char:EOLhyphen"/>ports ſpread of his profane Novelties, to
+the great preiudice of your Clergie, and his owne family, his onely pure
+deſigne was, therebie to awaken M.<hi rend="sup">r</hi> Blacloe out of his long, and deepe
+lethargie, and to put before his opened eyes the conſide<g ref="char:EOLhyphen"/>rable
+inconveniences, that vnfortunately he had procured to himſelfe, and to all
+his Brethren, piouſly hoping, that ſo deplo<g ref="char:EOLhyphen"/>rable a ſpectacle might haue
+drawne fro<g ref="char:cmbAbbrStroke">̄</g> him reaſon, compunction, and amend<g ref="char:EOLhyphen"/>ment, and conſequently
+ſome heroicall exteriour act, in ſatisfaction of his for<g ref="char:EOLhyphen"/>mer proceedings,
+at leaſt might haue in<g ref="char:EOLhyphen"/>vited him to exerciſe a laudable act of Charitie,
+either after the example of the Apoſtle S. Paul: <hi>ſi eſca
+ſcandalizat fratrem <pb n="5" facs="tcp:33748:4"/>meum, non manducabo carnem in aeternum,
+ne fratrem meum ſcandalizem:</hi> or in imi<g ref="char:EOLhyphen"/>tation of the holie Prophet
+Ionas, <hi>tollite me, &amp; mittite in mare, quoniam propter me tempeſtas
+haec grandis venit ſuper vos:</hi> ca<g ref="char:EOLhyphen"/>ſting himſelfe into the ſea of an
+humble ſubmiſſion to Authoritie.</p>
+            <p n="2">2.<hi rend="sup">o</hi> To the vnbeſeeming, and reproa<g ref="char:EOLhyphen"/>chfull language
+vttered by M.<hi rend="sup">r</hi> Blacloe in the ſaid printed Letter, to wit, mad man,
+ſycophant, &amp;c. D.<hi rend="sup">r</hi> Leyburne onely re<g ref="char:EOLhyphen"/>plied with <hi>gratias ago Deo meo,
+quod ſim dignus quem oderint homines, quoniam illi magis quam his ſtudeo
+placere.</hi>
+            </p>
+            <p n="3">3.<hi rend="sup">o</hi> As concerning the Regulars report, viz. that the
+doctrine of M.<hi rend="sup">r</hi> Blacloe was deſtructiue of Religion, and of Moralitie,
+teaching that a man, for example, forni<g ref="char:EOLhyphen"/>cating every day, may be ſaued, if he
+re<g ref="char:EOLhyphen"/>ſerue in that, or anie other ſinne a love to God. Alſo as concerning
+the propoſi<g ref="char:EOLhyphen"/>tion that M.<hi rend="sup">r</hi> Blacloe doth pick out of the ſaid doctrine, and
+acknowledgeth for his owne aſſertion, to wit, <hi>that one who should 
+<pb n="6" facs="tcp:33748:5"/>committ an exteriour ſinne ſtill remaining in charitie,
+should neuertheles goe to heauen,</hi> which he ſtileth <hi>the ſubſtance
+of the ſpread doctrine, or bodie,</hi> without <hi>the veſture,</hi> which
+he calleth <hi>a calumnie forged and foſtered in the breaſt of Doctor
+Leyburne.</hi> As concerning I ſay theſe particulars, Doctor Leyburne
+replied, ſaying, that he could not but extreamely admire the diſtem<g ref="char:EOLhyphen"/>per of
+M.<hi rend="sup">r</hi> Blacloes conſcience, <hi>quae ſemper praeſumit ſaeua,</hi> Sap.
+17. imitating therein the ſpider, that whatſoeuer it ſuck's tur<g ref="char:EOLhyphen"/>nes into
+poiſon, whereas it were more for his owne advantage to reſemble the bee,
+that co<g ref="char:cmbAbbrStroke">̄</g>verteth the bitter iuyce of the worſt flowers into ſweete, and
+odorife<g ref="char:EOLhyphen"/>rous honie: <hi>caue</hi> (ſaith S. Bernard) <hi>eſſe cu<g ref="char:EOLhyphen"/>rioſus
+alienae vitae explorator, &amp; iudex te<g ref="char:EOLhyphen"/>merarius:</hi> and proteſted
+withall, that he had not made the leaſt addition to the Regulars report, and
+conſequently that M.<hi rend="sup">r</hi> Blacloe did <hi>ſomnia fingere,</hi> imagining that
+the Regular would haue beene ſo ir<g ref="char:EOLhyphen"/>regular, as to haue ſpit in his face,
+for <pb n="7" facs="tcp:33748:5"/>venting a report, that the Regular him<g ref="char:EOLhyphen"/>ſelfe had
+ſpread. And Doctor Leyburne added, ſaying, but to shew you now the
+diſtemper of M.<hi rend="sup">r</hi> Blacloes vnderſtan<g ref="char:EOLhyphen"/>ding, as well as the diſorder of his
+con<g ref="char:EOLhyphen"/>ſcience, it shall clearly appeare, that the aſſertion aboue
+mention'd, and acknow<g ref="char:EOLhyphen"/>ledged for his owne (viz <hi>if one should committ an
+externall ſinne ſtill remaining in charitie, neuertheles might goe to
+heauen,</hi> which aſſertion he calleth <hi>the bodie of the report</hi>)
+doth neceſſarily require the circumſtances (<hi>deſtructiue of Religion
+and moralitie,</hi> which he calleth <hi>the veſture to the ſaid
+bodie,</hi> forg'd and foſtered in the breaſt of Doctor Leyburne) which is
+prou'd thus. The ſaid aſſertion imports ſo ſweete an agreement
+betwixt charitie, and exteriour ſinne, that exteriour ſinne doth not
+exclude charitie from the ſoule, nor the ſoule is excluded from the
+King<g ref="char:EOLhyphen"/>dome of heauen by exteriour ſinne, and therefore the ſaid veſture
+<hi>(deſtructiue of Religion and moralitie)</hi> is eſſentially in<g ref="char:EOLhyphen"/>cluded
+<pb n="8" facs="tcp:33748:6" rendition="simple:additions"/>in the bodie, as M.<hi rend="sup">r</hi> Blacloe hath moulded it: for
+that excellent harmonie, betwixt charitie, and exteriour ſinne, shall
+infallibly inuite fraile nature to ſinne exteriorly, preſuming, that,
+notwith<g ref="char:EOLhyphen"/>ſtanding the exteriour ſinne, for exam<g ref="char:EOLhyphen"/>ple drunkenneſſe,
+fornication, adulterie, the loue retained towards God shall bring him to
+heauen; which vnchriſtned doctrine contradicts Chriſts Apoſtle, who
+ſays, <hi>quod neque ebrij, neque fornica<g ref="char:EOLhyphen"/>tores neque adulteri regnum Dei
+poſsidebunt.</hi>
+            </p>
+            <p>Doctor Leyburne added, that M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloe would never vndoe this
+argument, vnles firſt he should vndoe his bodie (I meane his aboue mention'd
+aſſertion) and mould it anew, at which play he is ſo dexterous, that he
+may rightly be ſtil'd <hi>coluber Britannicus,</hi> or <hi>lubricus an<g ref="char:EOLhyphen"/>guis,
+propter ſinuoſos flexus, quos in ſingulis ſuis ſcriptis
+exercet.</hi>
+            </p>
+            <p>Here I put Doctor Leyburne in mind, that M.<hi rend="sup">r</hi> Blacloe had made
+vſe of the Scripture to proue his ſaid aſſertion, in<g ref="char:EOLhyphen"/>ſtancing 
+<pb n="9" facs="tcp:33748:6"/>in Lot, and his daughters, for a confirmation of it: to which
+Doctor Ley<g ref="char:EOLhyphen"/>burne anſwered, that the holie Scripture would afford him no
+protection in its Sanctuarie, to wit, in no one place af<g ref="char:EOLhyphen"/>firming, that <hi>if
+one should commit an ex<g ref="char:EOLhyphen"/>teriour ſinne ſtill remaining in charitie,
+ne<g ref="char:EOLhyphen"/>uertheles might goe to heauen.</hi> And that, as for his inſtance, it did
+not auaile him a button. For Lot loſt his charitie in his ex<g ref="char:EOLhyphen"/>teriour ſinne
+of drunkenneſſe, at leaſt, at the ſecond boute, according to the whole
+current of Doctors in the Catholick Church, to ſay nothing of his daughters,
+concerning whoſe inceſt <hi>Doctores alij, &amp; alij, aliter, &amp; aliter
+ſentiunt.</hi> Howeuer, the holie Scripture doth not ſay that Lot had
+charitie with his exteriour ſinne, and M.<hi rend="sup">r</hi> Blacloe goes fondly about to
+proue it, becauſe God did bleſſe the progenie, that proceeded from him
+and his daugh<g ref="char:EOLhyphen"/>ters. For God did bleſſe the iſſue of Iu<g ref="char:EOLhyphen"/>das and Thamar,
+and in a farre higher nature (Chriſt as man deſcending from it) 
+<pb n="10" facs="tcp:33748:7"/>notwithſtanding, that in their ince<g ref="char:EOLhyphen"/>ſtuous
+<hi>copula,</hi> neither had the vertue of charitie: Iudas committing
+voluntarily the ſinne of ſimple fornication, and Tha<g ref="char:EOLhyphen"/>mar the
+<hi>flagitium</hi> of inceſt. Moreover S. Auſtine ſays that God did
+extend the ter<g ref="char:EOLhyphen"/>ritories of the Romane Empire, for the morall vertues practic'd
+by the ancient Romanes, who notwithſtanding were not indued with divine
+charitie. To con<g ref="char:EOLhyphen"/>clude God built the <hi>Obſtetrices Hebraea<g ref="char:EOLhyphen"/>rum</hi>
+houſes, who made vſe of a lie to ſaue the male children of the Hebrews,
+con<g ref="char:EOLhyphen"/>trary to the command of the King of E<g ref="char:EOLhyphen"/>gypt. Of whom S. Auſtin ſpeaketh
+thus: <hi>Deus remunerauit benignitatem mentis, non iniquitatem
+mentientis.</hi> Doctor Leyburne ended with an <hi>Epiphonema,</hi> is this
+<hi>ſapere ad aedificationem?</hi>
+            </p>
+            <p n="4">4.<hi rend="sup">o</hi> Doctor Leyburne ſaid, that M.<hi rend="sup">r</hi> Blacloe in his
+Anſwere to the ſecond ac<g ref="char:EOLhyphen"/>cuſation, vſeth much <hi>Club-law,</hi>
+imploying all his <hi>Clubs</hi> againſt him, viz <hi>Club-ſyco<g ref="char:EOLhyphen"/>phant,
+Club-calumniator, Club-hiſsing ſer<g ref="char:EOLhyphen"/>pent,</hi> 
+               <pb n="11" facs="tcp:33748:7"/>&amp;c.
+and gloriouſly acteth <hi>Thomas Albionum Trinobantum,</hi> a bragging
+cap<g ref="char:EOLhyphen"/>taine, indeavoring to poſſeſſe the world, that he hath ſubdued
+the Doctor, and brought him vnder the lash of his <hi>ſacred
+Inſtitutions,</hi> (for ſoe he Chriſtnes his <hi>pro<g ref="char:EOLhyphen"/>fane Nouelties</hi>)
+and that he holds him faſt condemned therein, which he proves thus. <hi>The
+Doctor ſaith, that M.<hi rend="sup">r</hi> Blacloe teacheth, that the happines of the Damned
+doth ſurpaſſe the happines of the happieſt Emperours that euer were,
+and that he is ſu<g ref="char:EOLhyphen"/>re, that thoſe words are</hi> verbatim <hi>in his
+wri<g ref="char:EOLhyphen"/>tings. But there are no ſuch words in his wri<g ref="char:EOLhyphen"/>tings. Ergo the Doctor is
+condemned.</hi> The <hi>minor</hi> M.<hi rend="sup">r</hi> Blacloe shews out of the ſeco<g ref="char:cmbAbbrStroke">̄</g>d tome
+of his <hi>Institutions,</hi> Lect. 16. where as followeth, <hi>Sequitur
+aeternitatis ſtatus, beatis animae, corporisque bonis refertiſsimus,
+damnatis ex ſua ipſorum peruerſitate infaelix. Summa enim bona temporaria
+non poſſunt comparari minimis bonis cuiuſuis damnati, à Deo in
+ipſos pene inuitos, ipſa cauſarum à Deo inſtitutarum ſerie
+collatis. Illi puta emi<g ref="char:EOLhyphen"/>nentiae <pb n="12" facs="tcp:33748:8"/>aenimae, &amp; plenitudini
+ſcientiae, &amp; immortalitati corporis, &amp; immutabilitati; quibus, ſi
+frui, ipſis ab illorum peruerſitate copia daretur, etſi non ſtatui
+beatorum com<g ref="char:EOLhyphen"/>parandus, tamen reſpectu huius mundi faeli<g ref="char:EOLhyphen"/>ciſsimus foret
+eorum ſtatus.</hi>
+            </p>
+            <p>Doctor Leyburne, before he would engage in the ſolution of this
+M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloes Achilles, thought fitting to inculca<g ref="char:EOLhyphen"/>te one obſeruation, to
+wit, that he knew not how faithfully M.<hi rend="sup">r</hi> Blacloe had reci<g ref="char:EOLhyphen"/>ted his words in the
+<hi>Maior</hi> propoſition, becauſe he is aſſured, that in another
+pla<g ref="char:EOLhyphen"/>ce there is corruption in the citation. Howeuer, he could not meane by the
+particle <hi>verbatim,</hi> that his words, written in English, were to be
+found in M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloes Latine writings, but onely, that the ſence of the
+words was therein expreſ<g ref="char:EOLhyphen"/>ſed. This preſuppos'd, the Doctor ad<g ref="char:EOLhyphen"/>mitted the
+<hi>maior,</hi> and denied the <hi>mi<g ref="char:EOLhyphen"/>nor,</hi> ſaying, that <hi>Lectio</hi>
+16. of the ſaid <hi>In<g ref="char:EOLhyphen"/>ſtitutions</hi> conteyned the expreſſe ſence
+of the words, with which he had char<g ref="char:EOLhyphen"/>g'd <pb n="13" facs="tcp:33748:8"/>M.<hi rend="sup">r</hi> Blacloe. For
+the ſame <hi>Lectio</hi> ſaith thus, <hi>ſumma bona temporaria non
+poſſunt comparari minimis bonis cuiuſuis damnati, à Deo in ipſos
+pene inuitos, ipſa cauſarum à Deo inſtitutarum ſerie
+collatis.</hi> And the Doctor ſaid, that he neuer fathered more on M.<hi rend="sup">r</hi>
+Blacloe, then the expreſſe ſence of the foreſaid words, they importing,
+that the happines of the damned doth ſurpaſſe the happines of the
+happieſt Em<g ref="char:EOLhyphen"/>perours that euer were. But perhaps M.<hi rend="sup">r</hi> Blacloe will obiect,
+that the Doctor should haue conſidered the precedent and ſubſequent words
+of what is aboue cited out of <hi>Lect.</hi> 16. To which obiection it is
+anſwered, that albeit, both the prece<g ref="char:EOLhyphen"/>dent, and ſubſequent words include
+a re<g ref="char:EOLhyphen"/>ſtriction, or limitation; yet it is ſufficient to preſerue the
+Doctors reputation, and to defend him from M.<hi rend="sup">r</hi> Blacloes <hi>Club. law,</hi>
+that the middle words betwixt the pre<g ref="char:EOLhyphen"/>cedent, and ſubſequent, did beare the
+ex<g ref="char:EOLhyphen"/>preſſe ſence, eſpecially M.<hi rend="sup">r</hi> Blacloe ha<g ref="char:EOLhyphen"/>uing made <hi>punctums</hi>
+betwixt the prece<g ref="char:EOLhyphen"/>dent, <pb n="14" facs="tcp:33748:9"/>and the middle words, and betwixt
+the middle, and ſubſequent words.</p>
+            <p>Doctor Leyburne added, that the fore<g ref="char:EOLhyphen"/>ſaid reſtriction
+conteyned in the prece<g ref="char:EOLhyphen"/>dent, and ſubſequent words, would bring preiudice to
+M.<hi rend="sup">r</hi> Blacloe, giuing an oc<g ref="char:EOLhyphen"/>caſion to the Doctor to club his <hi>opinion</hi>
+into an <hi>hereſie,</hi> as alſo to eleuate the hap<g ref="char:EOLhyphen"/>pines of the damned,
+aboue the happines of this world, if M<hi rend="sup">r</hi> Blacloe shall ſtand to his
+principles. The latter the Doctor prou'd thus. Diogenes, and his fellow
+Philoſophers were happie in reſpect of this world, vpon the ſcore of
+knowled<g ref="char:EOLhyphen"/>ge, in which they did excell. Or thus, to vſe his owne words againe,
+<hi>the grea<g ref="char:EOLhyphen"/>teſt temporall goods cannot be compared to the leaſt goods of
+anie one of the damned:</hi> as for example, <hi>to the fulnes of
+know<g ref="char:EOLhyphen"/>legde,</hi> if permitted to vſe it. But the damned, notwithſtanding
+their pervers<g ref="char:EOLhyphen"/>neſſe, enioy a full knowledge, that farre ſurpaſſeth
+the knowledge of Diogenes, and all his fellow Philoſophers. <hi>Ergo</hi> the
+<pb n="15" facs="tcp:33748:9"/>damned, notwithſtanding their pervers<g ref="char:EOLhyphen"/>neſſe, are
+happie. The <hi>maior,</hi> according to M.<hi rend="sup">r</hi> Blacloes grounds, is warrantable,
+and the <hi>minor</hi> demonſtrable thus. A full knowledge of all naturall
+things is natu<g ref="char:EOLhyphen"/>rall to all the damned, men, and Angells, their vnderſtanding
+not being dimi<g ref="char:EOLhyphen"/>nish'd in its entitie, and force, in order to ſpeculation of
+naturall things. <hi>Ergo</hi> the damned, notwithſtanding their
+pervers<g ref="char:EOLhyphen"/>neſſe, enioy, &amp;c. The conſequence is evi<g ref="char:EOLhyphen"/>dent, and the
+antecedent is aſſerted by S. Dion. lib. de diu. nom. cap. 4. to whom S.
+Thomas, and all ſchoolemen doe ſub<g ref="char:EOLhyphen"/>ſcribe, teaching, <hi>omnia naturalia
+manſiſſe integra in daemonibus,</hi> and euen in this age, divines call
+the damned Angells, <hi>daemo<g ref="char:EOLhyphen"/>nes</hi> that is, <hi>ſcientes,</hi> derin'd
+from that ex<g ref="char:EOLhyphen"/>cellent ſcience, and knowledge, which they enioy of all naturall
+things, and the ſame may be ſaid of the other naturall proprieties
+appertaining to the damned. Wherefore, according to M.<hi rend="sup">r</hi> Blacloes principles,
+that aſcribes no other infeli<g ref="char:EOLhyphen"/>citie <pb n="16" facs="tcp:33748:10"/>to the damned, then
+their pure per<g ref="char:EOLhyphen"/>uersneſſe, the <hi>naturalia manentia integra,</hi>
+notwithſtanding the ſaid peruersneſſe, it followeth euidently, that
+their happines is eleuated aboue all the happines, that is to be found in the
+goods of this world, ſtill remaining in their peruersneſſe. Howeuer, M.<hi rend="sup">r</hi>
+Blacloe shall neuer make it appeare to anie vnderſtanding man, that purely
+peruersneſſe doth render the damned vnhappie, eſpecially he teaching in
+the third booke of his <hi>Inſtitutions,</hi> Lec. 9. <hi>damnatos ſuas
+ipſorum paenas dili<g ref="char:EOLhyphen"/>gere, &amp; ijs carere nolle.</hi> Where is
+obſer<g ref="char:EOLhyphen"/>uable, that, in this aſſertion, he contra<g ref="char:EOLhyphen"/>dicts the holie
+Scripture. For Apoc. 6. the damned ſay to the mountaines, and the rocks,
+<hi>cadite ſuper nos.</hi> And againe he ſays in the ſaid booke Lect. 16.
+<hi>damnatos poſse, etiamnum, ſi vellent, eſſe beatos.</hi> And it is
+little to the preſent purpoſe, or to his ad<g ref="char:EOLhyphen"/>uantage, the example he brings
+of An<g ref="char:EOLhyphen"/>tiochus, who (as it is reported in the Mac<g ref="char:EOLhyphen"/>chabees, ſaid to his
+friends, <hi>in quantam tri<g ref="char:EOLhyphen"/>bulationem <pb n="17" facs="tcp:33748:10"/>deueni, &amp; in
+quos fluctus triſti<g ref="char:EOLhyphen"/>tiae, in qua nunc ſum:</hi> who (ſays M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloe)
+<hi>iucundus erat &amp; dilectus in poteſtare.</hi> For in 2. Macchab. cap.
+9. it is related, that <hi>Dominus Deus Iſrael percuſſerat eum
+inſa<g ref="char:EOLhyphen"/>nabili plaga, quodque apprehendit eum dolor viſcerum, &amp; amara
+internorum tormenta.</hi> Which clearly shews, that his <hi>triſtitiae</hi>
+was no more, then an effect of his vn<g ref="char:EOLhyphen"/>happines, proceding <hi>ab
+extrinſeco,</hi> to wit <hi>dolor viſcerum, &amp; amara internorum
+tor<g ref="char:EOLhyphen"/>menta.</hi> But M.<hi rend="sup">r</hi> Blacloe doth conſtitute the vnhappines of the damned
+in a pure perversneſſe in their will, expreſſely teaching in Lec. 6. of
+his <hi>Inſtitutions</hi> aboue mention'd, <hi>damnatorum paenas non eſſe
+extrinſecus inflictas, ſed &amp; voluntarias, &amp; puras volitiones
+eſſe:</hi> and the ſame and no other paines he acknowledgeth in the
+afflictions of the faithfull ſoules in Purga<g ref="char:EOLhyphen"/>torie, as appeares in his booke
+<hi>de medio animarum ſtatu, Demenſo.</hi> 11.</p>
+            <p>The Doctor added, that M.<hi rend="sup">r</hi> Blacloes doctrine should here be
+<hi>club'd</hi> into an <hi>he<g ref="char:EOLhyphen"/>reſie,</hi> 
+               <pb n="18" facs="tcp:33748:11"/>which he
+demonſtrated out of ho<g ref="char:EOLhyphen"/>lie Scripture, Mat. 25. <hi>Ite maledicti in ig<g ref="char:EOLhyphen"/>nem
+aeternum:</hi> &amp; Luc. 16. <hi>diues epulo</hi> cries out <hi>crucior in
+haec fiamma.</hi> And there<g ref="char:EOLhyphen"/>fore M.<hi rend="sup">r</hi> Blacloe is in an <hi>hereſie,</hi>
+aſcribing the affliction of the damned to pure voli<g ref="char:EOLhyphen"/>tions, that is, to
+intentionall acts of the will, which holie Scripture attributes to the
+efficiencie of fier.</p>
+            <p>The Doctor added againe, that perhaps M.<hi rend="sup">r</hi> Blacloe will anſwere,
+that by fier, ex<g ref="char:EOLhyphen"/>preſſed in holie Scripture, are vnderſtood his
+intentionall acts of a peruerſe will, and that, <hi>ite in ignem
+aeternum,</hi> and, <hi>ite in puras volitiones peruerſas,</hi> are
+<hi>ſynonima;</hi> and conſequently, ſeing that the perverſe vo<g ref="char:EOLhyphen"/>litions
+of the damned be ſinnes, Chriſt by ſaying, <hi>ite in ignem
+aeternum,</hi> shall be ma<g ref="char:EOLhyphen"/>de author of ſinne, which is a greater
+<hi>blaſ<g ref="char:EOLhyphen"/>phemie,</hi> then the hereſie is a <hi>flagitium.</hi>
+            </p>
+            <p>Moreover the Doctor ſaid, it is here obſeruable, that
+contrarie to M.<hi rend="sup">r</hi> Blacloes learning, all the Fathers in the Councell of
+Florence did maintaine againſt the <pb n="19" facs="tcp:33748:11"/>Grecians, the fier of
+Purgatorie (and the ſame is to be vnderſtood of the fier of hell) to be
+true materiall fier. To whoſe doctrine, in this age, doth ſubſcribe the
+whole current of Doctors in the Catho<g ref="char:EOLhyphen"/>lick Church, vnanimouſly teaching, the
+contrarie to be <hi>temerarious,</hi> or next to <hi>he<g ref="char:EOLhyphen"/>reſie,</hi> if not
+hereticall, interpreting the ho<g ref="char:EOLhyphen"/>lie Scripture aboue mention'd, according to the
+rule of S. Auſtine, that is, litterally, <hi>cum fieri poſsit ſine fidei
+&amp; morum praeiudi<g ref="char:EOLhyphen"/>cio,</hi> and conſequently vnderſtanding the ſaid
+place of Scripture of true materiall fier, conceiuing no ſuch preiudice to
+ari<g ref="char:EOLhyphen"/>ſe from that interpretation. And therfore it is great impudence, and
+madnes in M.<hi rend="sup">r</hi> Blacloe to explicate the ſaid Scriptu<g ref="char:EOLhyphen"/>re as expreſſely he
+doth 3. Inſtit. lect. 11. contrarie to the vnanimous ſence of the holie,
+and learned Fathers in the Coun<g ref="char:EOLhyphen"/>cell of Florence, and the now current of
+Doctors in the Catholick Church.</p>
+            <p>Howeuer, it ſeemes that M.<hi rend="sup">r</hi> Blacloes ambition is to teach the
+holie Church of <pb n="20" facs="tcp:33748:12"/>God, and all learned ſchoolemen, a
+do<g ref="char:EOLhyphen"/>ctrine they knew not before. And, in this reſpect, the Doctor made an
+<hi>apo<g ref="char:EOLhyphen"/>ſtrophe</hi> to M.<hi rend="sup">r</hi> Blacloe, as S. Hierome did to Ruffinus, in the
+like caſe of ambi<g ref="char:EOLhyphen"/>tion: <hi>Deus bone, caeleſti numini profectò
+gra<g ref="char:EOLhyphen"/>tulamur, quod post tot annos &amp; Doctorum ſeries, vnus aduenerit,</hi>
+(Thomas Albio<g ref="char:EOLhyphen"/>rum Trinobantum) <hi>qui ſcholaſticos exci<g ref="char:EOLhyphen"/>tet tantae
+veritati indormientes.</hi> Doctor Leyburne ended with an <hi>epiphonema,</hi>
+is this <hi>ſapere ad ſobrietatem?</hi>
+            </p>
+            <p>After that Doctor Leyburne had thus finish'd his ſecond
+encounter, I was tranſ<g ref="char:EOLhyphen"/>ported with à curioſitie, to knowe of him, if
+M.<hi rend="sup">r</hi> Blacloes Inſtitutions did con<g ref="char:EOLhyphen"/>teyne anie more daungerous, and
+diſedi<g ref="char:EOLhyphen"/>fying doctrines: and he anſwer'd, that they had within their
+bowells, a whole Armie of <hi>profane nouelties,</hi> and withall did
+inſtance in theſe following.</p>
+            <p>The firſt lect. 16. pag. 357. M.<hi rend="sup">r</hi> Blacloe teacheth <hi>ex vi,
+&amp; ſerie naturae non potuiſſe damnatis melius contingere, neque
+omnibus, <pb n="21" facs="tcp:33748:12"/>neque ſingulis: ſed &amp; natura, &amp; Deus
+futuri fuiſſent deteriores, ſi aliter cum ijs actum fo<g ref="char:EOLhyphen"/>ret.</hi> The
+ſence in English is, that, <hi>conſide<g ref="char:EOLhyphen"/>ring the force, and ſeries of
+nature</hi> (he mea<g ref="char:EOLhyphen"/>nes connexion of naturall cauſes) <hi>the damned could
+not haue beene better prouided for either in generall, or in particular; nay,
+both God and nature would haue beene wor<g ref="char:EOLhyphen"/>ſe,</hi> (that is, would haue
+ſuffer'd preiudice) <hi>if the damned had not beene damned.</hi> Which is
+<hi>adeo aperta blaſphemia, vt eam prodere ſit confutare.</hi> But I should
+be glad to knowe of M.r Blacloe, whither before the crea<g ref="char:EOLhyphen"/>tion of natures force,
+and <hi>ſeries,</hi> the Emi<g ref="char:EOLhyphen"/>nencie of Gods perfection was not in it ſelfe
+complete, and independent of the exiſtence, the ſaid <hi>ſeries</hi>
+enioys. He dares not anſwere <hi>negatiuè,</hi> wherefore he is
+oblig'd to anſwere <hi>affirmatiuè,</hi> and con<g ref="char:EOLhyphen"/>ſequently to
+confeſſe, that it is yet within the reach of the divine Omnipotencie, to
+annihilate the ſaid <hi>ſeries</hi> of nature, and all the damned in hell,
+without preiudicing himſelfe in the diuine eminencie of his 
+<pb n="22" facs="tcp:33748:13"/>perfection. Howeuer this doctrine main<g ref="char:EOLhyphen"/>tained by M.<hi rend="sup">r</hi>
+Blacloe imports à <hi>great im<g ref="char:EOLhyphen"/>pietie,</hi> to wit, that God neuer had a
+will, or deſire to ſaue the damned, for other<g ref="char:EOLhyphen"/>wiſe the fulfilling of the
+ſaid will could neuer haue brought preiudice to Gods excellent goodnes, and
+perfection. And, that God had an antecedent will to ſaue the verie damned, is
+an vndoubted veri<g ref="char:EOLhyphen"/>tie, reuealed in the holie Scriptures S. Paul 1. ad Tim. 2.
+<hi>Deus,</hi> (inquit) <hi>vult om<g ref="char:EOLhyphen"/>nes homines ſaluos fieri:</hi> and the
+Prophet Ezechiel, who expreſſeth Gods will, or deſire to ſaue all
+ſinners in theſe words, <hi>viuo ego, dicit Dominus Deus, nolo mortem
+impij, ſed vt conuertatur impius à via ſua, &amp; viuat.</hi> And
+Tertullian in his commen<g ref="char:EOLhyphen"/>tarie vpon that place, <hi>iurat Deus</hi> (ſays he)
+<hi>vt ſibi credatur: O beatos nos, quorum cauſa Deus iurat, ſed ô
+miſeros nos, ſi Deo iuranti non credamus.</hi> Wherefore it is euident,
+that God had a will, notwithſtanding that <hi>ſeries,</hi> or connexion of
+nature, to haue ſa<g ref="char:EOLhyphen"/>ued thoſe who are damned, and conſe<g ref="char:EOLhyphen"/>quently 
+<pb n="23" facs="tcp:33748:13"/>God would not be now in a worſe condition, if his ſaid
+will had beene fulfilled. Doctor Leyburne ended with an <hi>Epiphonema,</hi> is
+this <hi>ſapere ad Chriſtianiſmum?</hi>
+            </p>
+            <p>The ſecond <hi>profane Noueltie</hi> pag. 328. where he
+affirmeth <hi>Chriſtum non eſſe mor<g ref="char:EOLhyphen"/>tuum pro re, vel perſona non
+conceſsa:</hi> the ſence in English is that, <hi>Chriſt did not dye for
+all,</hi> which is the doctrine of Calvin 4. Inſtit. 24. and condemned by
+Pope Inno<g ref="char:EOLhyphen"/>cent the 10.<hi rend="sup">th</hi> for <hi>temerarious, ſcandalous, impious,
+derogating to the diuine pietie, and hereticall.</hi> And, how contrarie this
+do<g ref="char:EOLhyphen"/>ctrine is to holy Scriptures, I leaue to the iudgment of thoſe, who shall
+piouſly conſider the ſacred texts. 1. Cor. 8. <hi>peribie infirmus in tua
+ſcie<g ref="char:cmbAbbrStroke">̄</g>tia frater, pro quo Chriſtus mortuus eſt:</hi> in English,
+<hi>through thy know<g ref="char:EOLhyphen"/>ledge</hi> (or Learning) <hi>shall perish thy weake
+brother, for whom Chriſt died.</hi> Rom. 14. <hi>noli cibo tuo illum perdere,
+pro quo Chri<g ref="char:EOLhyphen"/>ſtus mortuus eſt: deſtroy not him with thy meate, for whom
+Chriſt died.</hi> Out of which <pb n="24" facs="tcp:33748:14"/>Authorities may be argued
+thus. One can perish, and be deſtroy'd for whom Chriſt died: but the
+<hi>conceſsi</hi> or, <hi>electi,</hi> or <hi>praedeſti<g ref="char:EOLhyphen"/>nati</hi> doe neuer
+perish, or are deſtroy'd: <hi>ergo</hi> Chriſt did not onely dye <hi>pro
+re, vel perſona conceſſa.</hi> Moreouer 1. Tim. 4. the Apoſtle calleth
+Chriſt <hi>Saluator omnium hominum, maxime fidelium: the ſauiour of all
+men, cheifly of the faithfull.</hi> Where is obſer<g ref="char:EOLhyphen"/>uable that Chriſt is not
+named <hi>abſolute &amp; ſimpliciter the ſauiour of the faithfull,</hi>
+but with this reſtriction <hi>maxime, cheifly,</hi> or <hi>principally.</hi>
+And S. Iohn in his firſt Epiſtle, cap. 2. <hi>ipſe eſt</hi>
+(Chriſtus) <hi>propitiatio pro pec<g ref="char:EOLhyphen"/>catis nostris, non pro noſtris tantum,
+ſed &amp; pro peccatis totius mundi.</hi> In which place are not meant onely
+the elect, but alſo the reprobate, according to the interpretation of the
+Councell of Trent, ſeſſ. 6. cap. 3. which from thence gathereth, that
+<hi>not all thoſe for whom Chriſt died haue receiued the benefit of his
+death.</hi> But <hi>omnes perſonae conceſſae</hi> (to vſe M.<hi rend="sup">r</hi> Blacloes
+owne words) haue or will receiue the benefit of Chriſts <pb n="25" facs="tcp:33748:14"/>death. And therefore Chriſt died <hi>pro per<g ref="char:EOLhyphen"/>ſona non
+conceſſa.</hi> Doctor Leyburne ended with an <hi>Epiphonema,</hi> is this
+<hi>ſapere ad ve<g ref="char:EOLhyphen"/>ram &amp; germanam ſacrae Scripturae
+intelli<g ref="char:EOLhyphen"/>gentiam?</hi>
+            </p>
+            <p>The third <hi>profane Noueltie</hi> Lec. 9. pag. 81. M.<hi rend="sup">r</hi> Blacloe
+auerreth <hi>ſententiam aſse<g ref="char:EOLhyphen"/>rentem Sacramenta nouae legis cauſare
+gra<g ref="char:EOLhyphen"/>tiam, ex opere operato, vitam, &amp; perfectio<g ref="char:EOLhyphen"/>nem Chriſtianam, quae in
+cultura animae, &amp; in bonis actibus conſistit, transferre in ritus, &amp;
+ſuperſtitionem Paganam, qua credantur certa opera externa placere Deo,
+&amp; efficere (vi quaſi magica) bonitatem, non niſi vio<g ref="char:EOLhyphen"/>lentia intenſi
+affectus capiendam: 'quare eui<g ref="char:EOLhyphen"/>dens eſt hanc ſententiam magis facibus
+abo<g ref="char:EOLhyphen"/>lendam eſſe, quam argumentis confutandam.</hi> Thus he. the meaning is,
+that <hi>outward works, as are the Sacraments, exerciſe no efficiencie in the
+production of ſanctifying Grace,</hi> which is the opinion of Luther, lib. de
+Captiu. Babilon. And of all the ſe<g ref="char:EOLhyphen"/>ctaries in this age. But ſeing that M.<hi rend="sup">r</hi>
+Bla<g ref="char:EOLhyphen"/>cloe doth brand the common doctrine <pb n="26" facs="tcp:33748:15"/>mantained by the
+current of learned men in Gods Church, and audaciouſly affir<g ref="char:EOLhyphen"/>mes <hi>nullum
+eſſe iſtius profanitatis</hi> (ſo he ſtileth the ſaid common
+doctrine) <hi>verbu<g ref="char:EOLhyphen"/>lum, vel ſimilitudinem in Concilio Triden<g ref="char:EOLhyphen"/>tino</hi> (as
+is evident out of his owne words of the ſame lection pag. 78.) it will be
+ex<g ref="char:EOLhyphen"/>pedient to alleage the words of the ſaid Councell, thereby to come to a
+iudgeme<g ref="char:cmbAbbrStroke">̄</g>t. The Councell ſeſſ. 7. can. 6. defineth thus, <hi>ſi quis
+dixerit Sacramenta nouae legis non continere gratiam quam ſignificant, aut
+gratiam ipſam non ponentibus obicem non conferre, quaſi ſigna tantum
+externa ſint, &amp;c. anathema ſit.</hi> Et can. 8. <hi>ſi quis dixerit
+per ipſa nouae legis Sacrementa ex opere ope<g ref="char:EOLhyphen"/>rato non conferri gratiam,
+&amp;c. anathema ſit.</hi> But M.<hi rend="sup">r</hi> Blacloe anſwers, that albeit the
+Councell doth define, that the Sacra<g ref="char:EOLhyphen"/>ments of the new law doe conteyne, and
+conferre grace, yet it means not, that Sacraments, which are outward works,
+exerciſe anie cauſalltie, or efficiencie, as ſchoolemen vnanimouſly
+teach; for <hi>that <pb n="27" facs="tcp:33748:15"/>were,</hi> ſaith he, <hi>to
+transferre life, and Chriſtian perfection, into a Pagan
+ſuperſtition:</hi> and to <hi>begert a beleife,</hi> that outward works
+<hi>(as it were by a magick force) doe effect goodnes,</hi> or ſanctitie. And
+thence concludes, that the opinion of Doctors teaching that Sacra<g ref="char:EOLhyphen"/>ments doe
+conferre Grace <hi>ex opere opera<g ref="char:EOLhyphen"/>to, eſt facibus abolenda.</hi> And vpon the
+ſame ſcore he muſt condemne to the fier S Au<g ref="char:EOLhyphen"/>ſtine ſaying, <hi>vnde
+tanta virtus aquae, vt cor<g ref="char:EOLhyphen"/>pus rangat, cor vero abluat,</hi> to wit,
+aſcribing the purgation, or ſanctification of the ſou<g ref="char:EOLhyphen"/>le to the outward,
+or extrinſecall water of Baptiſme. The Doctor ended with an <hi>Epiphonema
+Quam imprudenter noſter Tho<g ref="char:EOLhyphen"/>mas Albiorum Trinobantum Diruit, aedificat, mutat
+quadrata rotundis?</hi>
+            </p>
+            <p n="5">5.<hi rend="sup">o</hi> Whereas M.<hi rend="sup">r</hi> Blacloe in his anſwere to the third
+obiection pretend's, that his whole ſcope, in writing rules of Go<g ref="char:EOLhyphen"/>vernment,
+was to highten, and commend the exemptions from anie written Law, or cuſtome
+of the Common wealth, which the dignitie of a ſupreme Prince, 
+<pb n="28" facs="tcp:33748:16"/>or Magiſtrate giues him: and imediately after ſubiect's
+the ſaid ſupreme Magiſtra<g ref="char:EOLhyphen"/>te to a rationall law, or law of reaſon
+<hi>(fig<g ref="char:EOLhyphen"/>mentum antea inauditum)</hi> by vertue of which his whole ſcope is,
+to vnhighten the dignitie of the ſaid ſupreme Magiſtra<g ref="char:EOLhyphen"/>te, and to bring
+him to Iudgment, and punishment, as often as the law of reaſon shall require,
+from which no ſupreme Magiſtrate is exempt more then from <hi>Club
+law.</hi> onely according to M.<hi rend="sup">r</hi> Blacloe the punnishing of an offending
+ſupreme Magiſtrate by the law of reaſon is a ra<g ref="char:EOLhyphen"/>tionall action proceeding
+from a rationall nature: and the punnishing of him by <hi>Club-law</hi> is an
+vnreaſonable act procee<g ref="char:EOLhyphen"/>ding from an irrationall and brutish na<g ref="char:EOLhyphen"/>ture. The
+Doctor onely anſwer'd with an <hi>Epiphonema,</hi> is this <hi>ſapere ad
+diſcretio<g ref="char:EOLhyphen"/>nem?</hi>
+            </p>
+            <p n="6">6.<hi rend="sup">o</hi> M.<hi rend="sup">r</hi> Blacloe hauing liberally beſ<g ref="char:EOLhyphen"/>towed on Doctor
+Leyburne the Chara<g ref="char:EOLhyphen"/>cters of <hi>ſycophant, madman, calumniator, hiſsing
+ſerpent &amp;c.</hi> proceeded farther to <pb n="29" facs="tcp:33748:16"/>proue him
+<hi>an ignorant man,</hi> which he performes thus. 1. (ſays he) <hi>his
+letter shews him ignorant.</hi> 2. <hi>his life may proue the ſame, he hauing
+ſpent his time generally in a pra<g ref="char:EOLhyphen"/>cticall way: true it is, he ſtudied
+ſome time be<g ref="char:EOLhyphen"/>fore his ſuing for his Doctorship, but with ſuch
+ſucceſſe, as I am aſsured he vnderſtood not his Theſes after he had
+defended them; and being brought vnder the glorious name of a Doctor to confer
+with ſome of a different Religion he came of with the shame of thoſe who
+brought him to it.</hi>
+            </p>
+            <p>Doctor Leyburne anſwered, that albeit he hath hitherto endeuored
+to free him<g ref="char:EOLhyphen"/>ſelfe, from the Characters of <hi>ſycophant, Ca<g ref="char:EOLhyphen"/>lumniator,
+hiſsing ſerpent,</hi> &amp;c. yet he takes to the title of <hi>ignorant
+man,</hi> and profeſſeth ingeniouſly that he neuer had the ambi<g ref="char:EOLhyphen"/>tion to
+be eſteemed <hi>learned:</hi> howeuer he vowed, that M.<hi rend="sup">r</hi> Blacloe had done
+him wrong in the proofes of his ignorance. For 1. (ſaid he) onely two dayes
+after he had defended the ſaid <hi>Theſes</hi> in the Vni<g ref="char:EOLhyphen"/>uerſitie of
+Rhemes, the Cheife Doctor, <pb n="30" facs="tcp:33748:17"/>and Chaire-man of the ſaid
+Vniuerſitie came vnto him, in the name of their whole bodie, deſiring him
+to compoſe new <hi>Theſes,</hi> and to prepare himſelfe to de<g ref="char:EOLhyphen"/>fend them,
+in the name of the ſaid Vni<g ref="char:EOLhyphen"/>uerſitie, before a Prouinciall Councell, which,
+by Order of their Archbishop, was to aſſemble in the ſaid Cittie of
+Rhe<g ref="char:EOLhyphen"/>mes, within fifteene daies, which is a conſiderable argument, that the
+ſaid Vni<g ref="char:EOLhyphen"/>uerſitie was perſwaded, that the Doctor vnderſtood his
+<hi>Theſes.</hi> 2. The Doctor compoſed his <hi>Theſes</hi> himſelfe,
+which was a ſigne that he vnderſtood them. Moreover they conteyned neither
+falſe Latine, or dangerous opinion, as did the <hi>Theſes,</hi> made by
+M.<hi rend="sup">r</hi> Blacloe, for his friend the Doctor at Paris, ſome eigh<g ref="char:EOLhyphen"/>teene yeeres
+agoe. 3. Doctor Leyburne ſaid, that he had moderated, and defen<g ref="char:EOLhyphen"/>ded more
+<hi>Theſes</hi> in Divinitie, then euer M.<hi rend="sup">r</hi> Blacloe had. 4. Doctor Leyburnes
+<hi>Theſes,</hi> which he compoſed, and defended three yeeres agoe, in the
+Vniuerſitie of <pb n="31" facs="tcp:33748:17"/>Doway, were honored with the title of
+<hi>pulchrae Theſes,</hi> and preſented by ſome of the ſaid
+Vniuerſitie to the Popes Nuncio at Bruſſells, with a requeſt, that they
+might be exhibited to the Pope, to ac<g ref="char:EOLhyphen"/>quaint his Holines, with the ſound, and
+ſober doctrine, profeſſed in the ſaid Vni<g ref="char:EOLhyphen"/>ueſitie. But M.<hi rend="sup">r</hi> Blacloe
+teaching Diuini<g ref="char:EOLhyphen"/>tie at Lisbo, no ſooner had printed his firſt
+<hi>Theſes,</hi> then they were put into the In<g ref="char:EOLhyphen"/>quiſition, as conteyning
+daungerous opi<g ref="char:EOLhyphen"/>nions: in ſo much that, he terrifi'de at the proceeding,
+ſodeinly quitted Portugall, returning into England. By which is ap<g ref="char:EOLhyphen"/>parent,
+that although, as M.<hi rend="sup">r</hi> Blacloe ſaith, the Doctor hath ſpent little time in
+ſtudies, yet it ſeemes, that the diuine pro<g ref="char:EOLhyphen"/>uidence hath beene more
+fauorable to the Doctor, than to M.<hi rend="sup">r</hi> Blacloe, who hath employ'd the whole
+courſe of his li<g ref="char:EOLhyphen"/>fe, for the purchaſe of knowledge, that hath brought
+preiudice to himſelfe, and to all his Brethren. As Concerning the Doctors
+being brought to conferre with <pb n="32" facs="tcp:33748:18"/>ſome of a different
+Religion, &amp;c. it is one of M.<hi rend="sup">r</hi> Blacloes dreames, without anie ground of
+veritie. But the Doctor doth well remember M.<hi rend="sup">r</hi> Blacloes conference with
+Chillingworth, who triumphed ouer him, to the great diſaduantage of his
+Cauſe. The Doctor ended with an Epi<g ref="char:EOLhyphen"/>phonema, is this <hi>ſapere ad
+veritatem?</hi>
+            </p>
+            <p n="7">7.<hi rend="sup">o</hi> After that M.<hi rend="sup">r</hi> Blacloe had finish'd his charge of
+calumnies againſt Doctor Leyburne, and their goodlie proofes, it ſeemes his
+great Councellour and ſecre<g ref="char:EOLhyphen"/>tarie M.<hi rend="sup">r</hi> Holland (according to their con<g ref="char:EOLhyphen"/>triued
+plot) thought it now a fit time (preſuming that the precedent Calum<g ref="char:EOLhyphen"/>nies
+would haue ſufficiently leſſen'd the Doctors eſteeme, in the opinion of
+the Clergie) to inculcate, and inſinuate into the hearts of our Brethren, and
+Lay-Ca<g ref="char:EOLhyphen"/>tholicks, the two cheife opinio<g ref="char:cmbAbbrStroke">̄</g>s amongſt M.<hi rend="sup">r</hi> Blacloes profane
+Nouelties, to wit, concerning the Popes infallibilitie, and the impriſonment
+of ſoules in Purgatorie vntill the day of iudgment. And as tou<g ref="char:EOLhyphen"/>ching 
+<pb n="33" facs="tcp:33748:18"/>the firſt, M.<hi rend="sup">r</hi> Blacloe openeth his breaſt thus to his
+ſaid Secretarie. <hi>I told you,</hi> ſaid he, <hi>I heard it</hi> (his
+booke written againſt the Popes infallibilitie) <hi>would not be meddled with
+at Rome; nay there want not thoſe who ſay it will be well accepted, it
+brin<g ref="char:EOLhyphen"/>ging the Popes infallibilitie into a rationall</hi> Theſis, <hi>whereas
+the contrarie was not de<g ref="char:EOLhyphen"/>fenſible, but by force of command, and power, and
+ſcandalized Catholicks who ſought for reaſon, and auerted thoſe, who
+otherwiſe were neere conuerſion, vntill they met with Ca<g ref="char:EOLhyphen"/>tholicks of
+another opinion.</hi> Doctor Ley<g ref="char:EOLhyphen"/>burne anſwered with a zealous excla<g ref="char:EOLhyphen"/>mation,
+ſaying, ô God how this poore man acts the ſerpent, that hiſſed
+poiſon to Eue in Paradiſe! how he is blowne vp with the dreames of his owne
+troubled fancie! how ambitious he is to execute his law of reaſon, that is
+his <hi>Club-law,</hi> for the knocking downe of the Popes infallibili<g ref="char:EOLhyphen"/>tie,
+pretending that it is a mutherer of ſoules, hindring their conuerſion: and
+(to vſe his owne words) <hi>a greater ſinne, them to deſtoure a virgin
+vpon an altar.</hi> Doctor <pb n="34" facs="tcp:33748:19"/>Leyburne added, can any man,
+though onely halfe witted, conceiue, that Ale<g ref="char:EOLhyphen"/>xander 7.<hi rend="sup">th</hi> now Pope of Rome is
+well ſatisfied with M.<hi rend="sup">r</hi> Blacloe, for impugning his infallibilitie, which
+Catholick Do<g ref="char:EOLhyphen"/>ctors, in all ages, haue aſcribed vnto him: or can it be
+rationally conceiu'd, that anie one that is <hi>compos mentis</hi> should be
+auer<g ref="char:EOLhyphen"/>ted from the Catholick Religion, vpon that ſcore of Infallibilitie,
+which rather should be a motiue to embrace it? For who would not ſooner
+adhere to that Church, whoſe Cheife Paſtor is eſtee<g ref="char:EOLhyphen"/>m'd infallible, and
+cannot tell a lie for a truth defining as cheife Paſtor, then to a Church,
+whoſe cheife Paſtor is ſubiect to fallibilitie? therefore he cannot
+beleiue but that M.<hi rend="sup">r</hi> Blacloe did dreame this fri<g ref="char:EOLhyphen"/>volous pretence, that the
+Popes infallibi<g ref="char:EOLhyphen"/>litie should diſſwade from the Catholick faith. But this
+poore man hath the ambi<g ref="char:EOLhyphen"/>tion, to be eſteemed, amongſt all Chri<g ref="char:EOLhyphen"/>ſtians,
+the <hi>Chriſtian rationall,</hi> imitating in that peece of pride the
+Donatiſts, who made cleare reaſon to march before their <pb n="35" facs="tcp:33748:19"/>beleife, againſt whom S. Auſtine writeth thus, <hi>credimus vt
+cognoſcamus, non cognoſci<g ref="char:EOLhyphen"/>mus vt credamus:</hi> and againe, ſaith he,
+<hi>Chriſtianus fidelis, non rationalis nominatur,</hi> Doctor Leyburne
+ended, with an <hi>Epi<g ref="char:EOLhyphen"/>phonema.</hi> is this <hi>ſapere ad fide<g ref="char:cmbAbbrStroke">̄</g>
+Chriſtianam?</hi>
+            </p>
+            <p>As touching the ſecond, his durance of Purgatorie, M.<hi rend="sup">r</hi> Blacloe
+thus hiſſeth poi<g ref="char:EOLhyphen"/>ſoned words to his Brethren. <hi>My friend Macedo,</hi>
+ſaith he, <hi>would not touch it, auerring it to be the opinion of diuers
+Fathers, parti<g ref="char:EOLhyphen"/>cularly S. Auſtine; others of my Aduerſaries, that it was
+hard to anſwere, what I had ſaid. Further conſider, how contrarie it is
+to pietie, charging God with an irrationall iustice ta<g ref="char:EOLhyphen"/>king away the priuilege
+of charitie, by affir<g ref="char:EOLhyphen"/>ming that ſoules perfect in charitie are yet de<g ref="char:EOLhyphen"/>priued
+of the ſight of God, and expoſing hea<g ref="char:EOLhyphen"/>uen to auction, that who can giue
+moſt shall ſooneſt come thither. Adde what ſlight gro<g ref="char:EOLhyphen"/>unds they goe
+vpon, certaine viſions,</hi> &amp;c. The Doctor ſaid that with horror and
+in<g ref="char:EOLhyphen"/>dignation he read the impious and blaſ<g ref="char:EOLhyphen"/>phemous doctrine conteyned in the
+reci<g ref="char:EOLhyphen"/>ted <pb n="36" facs="tcp:33748:20"/>words. Withall anſwered.</p>
+            <p n="1">1.<hi rend="sup">o</hi> That M.<hi rend="sup">r</hi> Blacloe was to be com<g ref="char:EOLhyphen"/>mended for ſtiling
+Macedo <hi>his freind,</hi> for he procured at Rome the condemning of one of
+his books: and it was the part of a true freind, to ſeeke his conuerſion to
+pu<g ref="char:EOLhyphen"/>re doctrine, and to the obedience of the Church. But how happen'd it, that
+his ſaid friend Macedo, auerring S. Auſtine particulary to hold with M.<hi rend="sup">r</hi>
+Blacloe in the detention of ſoules in Purgatorie, vn<g ref="char:EOLhyphen"/>till the day of
+Iudgment, hath not men<g ref="char:EOLhyphen"/>tioned the Booke, and Page, where the ſaid S.
+Auſtine teacheth that opinion. And how happens it now, that our all-know<g ref="char:EOLhyphen"/>ing
+<hi>Thomas Albiorum Trinobantum.</hi> &amp;c. (ſoe vainly he ſubſcribes
+his name to his printed writings) doth not ſupplie that defect of his friend
+Macedo. Howeuer I my ſelfe shall helpe in this buiſneſſe, and cite S.
+Auſtine for him <hi>lib.</hi> 15. <hi>de Trin. cap.</hi> 25.
+<hi>conſtituuntur autem purgati, ab omni co<g ref="char:EOLhyphen"/>gitatione corruptionis, in
+placidis ſedibus, do<g ref="char:EOLhyphen"/>nec recipiant corpora ſua.</hi> See, how fauora<g ref="char:EOLhyphen"/>ble 
+<pb n="37" facs="tcp:33748:20"/>S. Auſtine is to M.<hi rend="sup">r</hi> Blacloes opinion, <hi>who placeth
+ſoules in heauen, to expect their bodies after their purgation</hi> in the
+next life: as will clearly appeare to him, that shall peruſe the cited
+chapter. Againe S. Au<g ref="char:EOLhyphen"/>ſtine <hi>hom.</hi> 16. writeth thus, <hi>quanta fuerit
+peccati materia, tanta &amp; pertranſeundi mu<g ref="char:EOLhyphen"/>ra.</hi> Where ſee againe,
+how fauorable S. Auſtine is to M.<hi rend="sup">r</hi> Blacloes opinion, ſpea<g ref="char:EOLhyphen"/>king of ſoules
+paſſing the riuer of fire (Purgatorie) ſays, <hi>by how much more the
+matter of ſinne is, ſoe much longer the ſoules shall ſtay in their
+paſſage,</hi> whence is clearly inferr'd, that ſome ſoules doe
+paſſe ſoo<g ref="char:EOLhyphen"/>ner then others.</p>
+            <p n="2">2.<hi rend="sup">o</hi> Doctor Leyburne anſwered, that M.<hi rend="sup">r</hi> Blacloe in
+condemning the doctri<g ref="char:EOLhyphen"/>ne, that teacheth the deliuerance of ſou<g ref="char:EOLhyphen"/>les out of
+Purgatorie before the day of Iudgment, <hi>as contrarie to Pietie,</hi>
+commit's <hi>an impietie, aduerſus Spiritum ſanctum,</hi> which S. Matthew
+calls <hi>impardonable in hoc ſeculo, &amp; in futuro:</hi> in condemning the
+ſaid doctrine, <hi>as charging God with an <pb n="38" facs="tcp:33748:21"/>irrationall
+iuſtice</hi> commit's <hi>blaſphemie, quod eſt peccatum ad mortem, &amp;
+non habet re<g ref="char:EOLhyphen"/>miſsionem in aeternum:</hi> and in condemning the ſaid
+doctrine as <hi>expoſing heauen to au<g ref="char:EOLhyphen"/>ction,</hi> or <hi>open ſale, that
+who can giue moſt shall ſoonest come thither,</hi> comit's <hi>flagitium
+profanitatis.</hi> But, at what a hight of impu<g ref="char:EOLhyphen"/>dencie and impietie is this
+poore man ar<g ref="char:EOLhyphen"/>riu'd, affirming an orthodoxe veritie, defi<g ref="char:EOLhyphen"/>ned by Pope Engenius
+in the generall Cou<g ref="char:cmbAbbrStroke">̄</g>cell of Flore<g ref="char:cmbAbbrStroke">̄</g>ce, as alſo by Pope Bene<g ref="char:EOLhyphen"/>dict the 12.<hi rend="sup">th</hi>
+auer'd by ancie<g ref="char:cmbAbbrStroke">̄</g>t Fathers, ap<g ref="char:EOLhyphen"/>prou'd by the vniuerſall practice of Gods
+Church, and co<g ref="char:cmbAbbrStroke">̄</g>firmed and taught by the whole current of Catholick Doctors, to
+be <hi>contrarie to pietie, to charge God with an ir<g ref="char:EOLhyphen"/>rationall iuſtice, and
+to expoſe heauen to open ſale, that who shall giue moſt monie shall
+carrie it!</hi> Blaſphema dicit <hi>Blaclous,</hi> profana dicit, falſa
+dicit: blaſphema ſtupemus, pro<g ref="char:EOLhyphen"/>fana cauemus, falſa conuincimus.</p>
+            <p n="3">3.<hi rend="sup">o</hi> Doctor Leyburne anſwered, that M.<hi rend="sup">r</hi> Blacloe in
+auerring that the ſaid Catholick <hi>Tenet relieth on certaine 
+<pb n="39" facs="tcp:33748:21"/>viſions,</hi> which he calleth <hi>old wiues tales,</hi>
+commits an <hi>iniurious falſitie</hi> ſeing that the ſaid doctrine is
+protected with the au<g ref="char:EOLhyphen"/>thoritie of an infallible Councell, forti<g ref="char:EOLhyphen"/>fied with an
+vniuerſall practice of the Church, and arm'd with an vnanimous conſent of
+all Catholick Doctors. Yet al<g ref="char:EOLhyphen"/>beit our Catholick doctrine of the du<g ref="char:EOLhyphen"/>rance of
+Purgatorie doth not relie on vi<g ref="char:EOLhyphen"/>ſions: howeuer our <hi>vnus Doctor</hi> M.<hi rend="sup">r</hi>
+Bla<g ref="char:EOLhyphen"/>cloe <hi>profanely</hi> calleth apparitions of holy ſoules <hi>old owiues
+tales,</hi> ſeing that they ha<g ref="char:EOLhyphen"/>ue alwayes beene number'd amongſt di<g ref="char:EOLhyphen"/>uine
+miracles, and beſides they are grou<g ref="char:cmbAbbrStroke">̄</g>ded on authoritie of holie Scripture,
+<hi>Samuel</hi> 1. <hi>Reg.</hi> 2. <hi>Sauli vere apparuit,</hi> ac<g ref="char:EOLhyphen"/>cording to
+the common opinion: and it is an vndoubted truth, that Moyſes ap<g ref="char:EOLhyphen"/>peared in
+Chriſts Transfiguration: and S. Matthew <hi>cap.</hi> 17. <hi>&amp;</hi> 27.
+mentioneth di<g ref="char:EOLhyphen"/>uers apparitions in Chriſt his Reſurre<g ref="char:EOLhyphen"/>ction: and S.
+Auſtine <hi>lib. de cura pro more. cap.</hi> 10. affirmes the ſoules of the
+departed to haue ofte<g ref="char:cmbAbbrStroke">̄</g>times appeared, <hi>ſi falſa eſſe,</hi> in<g ref="char:EOLhyphen"/>quit, 
+<pb n="40" facs="tcp:33748:22"/>
+               <hi>reſponderimus</hi> (to wit, that ſoules ha<g ref="char:EOLhyphen"/>ue often
+appeared) <hi>contra quorundam ſcri<g ref="char:EOLhyphen"/>pta fidelium, &amp; contra eorum
+ſenſus, qui ta<g ref="char:EOLhyphen"/>lia ſibi accidiſſe confirmant, impudenter ve<g ref="char:EOLhyphen"/>nire
+videbimur.</hi> Whence is infer'd that ac<g ref="char:EOLhyphen"/>cording to S. Auſtines iudgment,
+M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloes opinion is branded with <hi>impu<g ref="char:EOLhyphen"/>dency.</hi>
+            </p>
+            <p>Here Doctor Leyburne gaue ouer the conflict, expreſſing onely
+a zealous de<g ref="char:EOLhyphen"/>ſire to imprint in the hearts of his Bre<g ref="char:EOLhyphen"/>thren, what S.
+Auſtine did inculcate to all Chriſtian people, who in his ſecond booke
+written againſt Iulian, who had broach't profane nouelties, to the preiu<g ref="char:EOLhyphen"/>dice
+of ſoules, vſeth theſe words: <hi>hos</hi> (the holy Fathers, who
+flourish'd in the pre<g ref="char:EOLhyphen"/>cedent ages) <hi>oportet, vt Chriſtiani populi
+veſtris profanis nouitatibus anteponant, cis<g ref="char:EOLhyphen"/>que potius, quam vobis, eligant
+adhaerere.</hi> And wish'd, that our Brethren, at the example of this great
+Doctor, would pre<g ref="char:EOLhyphen"/>ferre the holie Fathers in a generall Councell aſſembled,
+before M.<hi rend="sup">r</hi> Blacloes <pb n="41" facs="tcp:33748:22"/>
+               <hi>profane nouelties,</hi> and to
+adhere rather to the vniuerſall practice of the Catholick Church, then to his
+<hi>ſingularitie.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <head>AN ADVERTISMENT.</head>
+            <p>WHereas a certaine Decree hath bee<g ref="char:EOLhyphen"/>ne made by the Holy
+Congrega<g ref="char:EOLhyphen"/>tion, <hi>de propaganda fide,</hi> prohibiting all Apoſtolicall
+Miſſionaries to print an <hi>Opus,</hi> without the expreſſe leaue of
+the ſaid Congregation, Doctor Leyburne did conferre with ſome
+Profeſſors of Di<g ref="char:EOLhyphen"/>uinitie, whither the printing of an Epiſtle were
+comprehended in that Decree, and it was iudged <hi>negatiue.</hi> Howeuer,
+ſeing that through the diſperſing of M.<hi rend="sup">r</hi> Bla<g ref="char:EOLhyphen"/>cloes printed Letter, by
+Order from a Conſult, Doctor Leyburne had iuſt ground to apprehend
+preiudice to his owne reputation, and ruine to many ſou<g ref="char:EOLhyphen"/>les, if not preuented
+by ſome preſent re<g ref="char:EOLhyphen"/>medie, it was thought lawfull for him, in 
+<pb n="42" facs="tcp:33748:23"/>ſo vrgent a neceſſitie, to vſe <hi>interpreta<g ref="char:EOLhyphen"/>tion
+per epikiam,</hi> in caſe his Epiſtle had beene comprehended in the ſaid
+Decree. Thus much Doctor Leyburne iudg'd fit<g ref="char:EOLhyphen"/>ting to ſignifie, leaſt ſome
+weake bro<g ref="char:EOLhyphen"/>ther might eſteeme him diſobedient to the ſaid Decree. Moreouer
+Doctor Ley<g ref="char:EOLhyphen"/>burne will vſe expedition to acquaint both the Cardinall
+Protector, and the ſaid Holy Congregation with his procee<g ref="char:EOLhyphen"/>ding, to whom he
+ſubmit's his preſent writings. In the <hi>interim</hi> he deſires his
+Brethren to excuſe what they find defe<g ref="char:EOLhyphen"/>ctiue either in this Anſwere or his
+Decla<g ref="char:EOLhyphen"/>ratorie Epiſtle, hauing in a manner beene conſtrain'd to finish both,
+in the ſpace of two Poſts out of England.</p>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:33748:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
